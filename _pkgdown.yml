@@ -1,0 +1,19 @@
+title: rfasstui
+url: https://bc3lc.github.io/gcamreport/
+
+
+navbar:
+  structure:
+    left:  [intro, tutorial]
+    right: [search, github]
+
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Tutorial"
+      icon: fas fa-book
+      href: articles/tutorial.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/bc3LC/rfasstui
+
