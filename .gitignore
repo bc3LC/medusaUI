@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# rfasst outputs
+inst/rfasstui/output*
+
+# extra files
+*extra*
+inst/doc
+
+# workflows
+.github
