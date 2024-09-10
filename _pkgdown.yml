@@ -1,5 +1,5 @@
-title: rfasstui
-url: https://bc3lc.github.io/gcamreport/
+title: medusaUI
+url: https://bc3lc.github.io/medusaUI/
 
 
 navbar:
@@ -15,5 +15,5 @@ navbar:
       href: articles/tutorial.html
   right:
     - icon: fa-github fa-lg
-      href: https://github.com/bc3LC/rfasstui
+      href: https://github.com/bc3LC/medusaUI
 

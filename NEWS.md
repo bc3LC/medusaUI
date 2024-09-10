@@ -1,4 +1,4 @@
-# rfasstui 0.1.0 (Under development)
+# medusaUI 0.1.0 (Under development)
 
 ## New features
 

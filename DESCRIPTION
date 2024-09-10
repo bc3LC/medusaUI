@@ -1,10 +1,10 @@
-Package: rfasstui
+Package: medusaUI
 Type: Package
-Title: A web-based interactive scenario builder and visualization application for the rfasst model
+Title: An interactive application for socioeconomic and distributional analysis based on the medusa model
 Version: 1.0
-Authors@R: c(person("Clàudia", "Rodés-Bachs", email = "claudia.rodes@bc3research.org", role = c("aut", "cre")),
-         person("Jon", "Sampedro", email = "jon.sampedro@bc3research.org", role = c("aut")))
-Description: Provides a simple visual, interactive web interface for the chemical source receptor model rfasst.
+Authors@R: c(person("Eva", "Alonso-Epelde", email = "eva.alonso@bc3research.org", role = c("aut", "cre")),
+         person("Clàudia", "Rodés-Bachs", email = "claudia.rodes@bc3research.org", role = c("aut")))
+Description: Provides a simple interactive and visual web interface for the medusa model.
 License: BLD-2
 Encoding: UTF-8
 LazyData: true
@@ -29,8 +29,6 @@ Suggests:
     rmarkdown,
     pkgdown
 Remotes:
-    github::bc3LC/rfasst@dev_k,
-    github::JGCRI/rgcam,
-    github::JGCRI/rmap
-RoxygenNote: 7.3.1
+    github::bc3LC/medusa
+RoxygenNote: 7.3.2
 VignetteBuilder: knitr
